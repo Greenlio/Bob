@@ -1,0 +1,9 @@
+{
+  "name": "bob",
+  "version": "1.0.0",
+  "description": "ai discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/Greenlio/Bob.git",
+  "author": "Greenlio <greenliobusiness@gmail.com>",
+  "license": "MIT"
+}
